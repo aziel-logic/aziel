@@ -1,0 +1,21 @@
+Unduh untuk Windows
+Klik di sini untuk mengunduh Git versi x64 terbaru ( 2.51.0 ) untuk Windows . Ini adalah versi terbaru yang dikelola . Versi ini dirilis 9 hari yang lalu , pada 19-08-2025 .
+
+Unduhan Git untuk Windows lainnya
+Penginstal Mandiri
+Pengaturan Git untuk Windows/x64 .
+
+Git untuk Pengaturan Windows/ARM64 .
+
+Portabel ("edisi thumbdrive")
+Git untuk Windows/x64 Portabel .
+
+Git untuk Windows/ARM64 Portabel .
+
+Menggunakan alat winget
+Instal alat winget jika Anda belum memilikinya, lalu ketik perintah ini di command prompt atau Powershell.
+winget install --id Git.Git -e --source winget
+
+Rilis kode sumber saat ini adalah versi 2.51.0 . Jika Anda menginginkan versi yang lebih baru, Anda dapat membuatnya dari kode sumber .
+
+  
